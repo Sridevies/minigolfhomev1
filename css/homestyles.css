@@ -242,3 +242,12 @@ width: 300px;
 		    width: 150px;
 	}
 }
+.videodiv{
+width:100%; 
+text-align:center;
+margin: 0 auto 
+}
+.videostyles{
+position: relative;left: 50%;
+transform: translateX(-50%);
+}
